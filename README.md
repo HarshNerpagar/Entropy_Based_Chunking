@@ -16,7 +16,7 @@ The proposed method uses entropy as a measure of information density to guide te
 - Scalable and model-agnostic preprocessing framework  
 
 ##  System Architecture
-![Architecture Diagram](diagrams/architecture.png)
+![Architecture Diagram](diagrams/image.png)
 
 ##  Results
 Results will be made available after official publication.
